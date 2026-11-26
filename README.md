@@ -25,3 +25,9 @@ Huawei Hi6250 tabanlı Android cihaz ağacı için proje deposu.
 - [Halium cihaz manifestleri](https://github.com/hasankemal28/halium-devices) · Desteklenen cihazlar için yerel manifestler ve kurulum betiği
 
 </details>
+
+## GitHub istatistikleri ve katkılar
+
+[![GitHub istatistikleri · yıldız, commit, pull request ve issue sayıları](https://github-readme-stats.vercel.app/api?username=hasankemal28&show_icons=true&hide_rank=true&bg_color=151D2F&title_color=8CF0C9&text_color=F1F8F7&icon_color=8CF0C9&border_color=4CA39B&locale=tr&custom_title=GitHub+istatistikleri)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Son 31 günün GitHub katkı grafiği](https://github-readme-activity-graph.vercel.app/graph?username=hasankemal28&bg_color=151D2F&color=C2D9DD&title_color=8CF0C9&border_color=4CA39B&line=8CF0C9&point=F1F8F7&area=true&area_color=4CA39B&days=31&custom_title=Son+31+g%C3%BCn%C3%BCn+katk%C4%B1lar%C4%B1)](https://github.com/hasankemal28#contribution-activity)
