@@ -1,21 +1,27 @@
-<p align="center">
-  <img src="./profile-banner.png" alt="Hasan Kemal · Python web uygulamaları ve Android sistemleri" width="1200">
-</p>
+<img src="./profile-banner.png" alt="Hasan Kemal | Web uygulamaları ve mobil sistemler" width="1200">
 
-Python ve SQLite ile iş akışlarını web uygulamalarına dönüştürüyorum. Veri modeli, HTTP API ve tarayıcı arayüzü üzerinde çalışıyorum. Android tarafında cihaz ağaçları ve Linux tabanlı mobil sistemlerle ilgileniyorum.
+Python, JavaScript ve SQLite ile günlük iş süreçlerini web uygulamalarına dönüştürüyorum. Mobil tarafta Android cihaz ağaçları ve postmarketOS üzerine çalışıyorum.
 
-## Geliştirme notları
+## Web uygulamaları
 
-| Alan | Teknik odak |
-| --- | --- |
-| Web paneli | Python HTTP API, JavaScript arayüz, SQLite ve şube kapsamına göre yetkilendirme. Personel, cari hesap ve kasa işlemleri aynı panelde. |
-| e‑Fatura | UBL‑TR XML üretimi, XAdES imzası, XSD doğrulaması ve şube bazlı arşiv. Numara tahsisi ile arşiv kaydı aynı veritabanı işleminde. |
-| Android ve mobil Linux | Huawei P20 Lite ve Samsung Galaxy S6 cihaz ağaçları, halium-devices ve postmarketOS kaynakları. |
+**Şube yönetim paneli.** Personel, cari hesap ve kasa işlemlerini tek arayüzde topluyorum. Python HTTP API’si, her şubenin hangi verilere ve işlemlere erişebileceğini yönetiyor.
 
-## Açık depolar
+**e‑Fatura.** UBL‑TR XML üretimi, XSD doğrulaması ve XAdES imzası üzerinde çalışıyorum. Fatura numarası tahsisi ve arşiv kaydı aynı SQLite işlemi içinde tamamlanıyor.
 
-| Proje | Kaynak |
-| --- | --- |
-| Huawei P20 Lite cihaz ağacı | [android_device_huawei_p20lite](https://github.com/hasankemal28/android_device_huawei_p20lite) |
-| Galaxy S6 Android cihaz ağacı | [android_device_samsung_hero2lte](https://github.com/hasankemal28/android_device_samsung_hero2lte) |
-| Galaxy S6 için postmarketOS | [PostmarketOS-for-Samsung-Galaxy-S6-G920F](https://github.com/hasankemal28/PostmarketOS-for-Samsung-Galaxy-S6-G920F) |
+## Android ve mobil Linux
+
+**[Galaxy S6’da postmarketOS](https://github.com/hasankemal28/PostmarketOS-for-Samsung-Galaxy-S6-G920F)**
+
+Samsung Galaxy S6 (SM‑G920F, `zerofltexx`) üzerinde XFCE çalıştırmaya yönelik kurulum notları.
+
+**[Huawei P20 Lite cihaz ağacı](https://github.com/hasankemal28/android_device_huawei_p20lite)**
+
+Huawei Hi6250 tabanlı Android cihaz ağacı için proje deposu.
+
+<details>
+<summary>Fork’lar</summary>
+
+- [Galaxy S7 Edge cihaz ağacı](https://github.com/hasankemal28/android_device_samsung_hero2lte) · Exynos, `hero2lte`
+- [Halium cihaz manifestleri](https://github.com/hasankemal28/halium-devices) · Desteklenen cihazlar için yerel manifestler ve kurulum betiği
+
+</details>
